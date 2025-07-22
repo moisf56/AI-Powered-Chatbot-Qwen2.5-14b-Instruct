@@ -1,5 +1,6 @@
 """
-Flask Backend for Human-in-the-Loop Chatbot (with memory and web search capabilities)
+Flask Backend for Human-in-the-Loop Chatbot (with memory and web search capabilities).
+Inspired by Langchain/graph Tutorials.
 Connects your LangGraph chatbot with the React frontend
 """
 
