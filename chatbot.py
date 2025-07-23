@@ -1,6 +1,5 @@
 """
-Human-in-the-Loop Chatbot - Built from Scratch
-No problematic imports - everything works!
+
 """
 
 import os
